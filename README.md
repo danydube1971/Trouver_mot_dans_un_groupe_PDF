@@ -1,6 +1,6 @@
 # Rechercher_mots_dans_PDF
 
-Testé dans Linux Mint Mate 21.2
+Testé dans Linux Mint Mate 21.2 sous python 3.10
 
 Le script `Rechercher_mots_dans_PDF.py` est un programme Python pour rechercher des mots spécifiques dans des fichiers PDF. 
 
